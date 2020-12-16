@@ -1,4 +1,4 @@
-# State-Estimation
+# State-Estimation 
 Adaptive Determination for the Bandwidth of State Estimation
 # State-Estimation
 Adaptive Determination for the Bandwidth of State Estimation
@@ -6,7 +6,7 @@ Adaptive Determination for the Bandwidth of State Estimation
 The MVA base is 100 MVA.
 
 ====================================================================
-"branch.txt" is the branch data of the modified IEEE 118-bus system.
+"branch.txt" is the branch data of the modified IEEE system.
 The first line of this file is the number of branches of the system.
 The following part is the data of each branch and the data format is as follows.
 
