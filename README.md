@@ -10,8 +10,8 @@ The MVA base is 100 MVA.
 The first line of this file is the number of branches of the system.
 The following part is the data of each branch and the data format is as follows.
 
-     1            2                             3                              4          5         6                     7                          8         9
-"From" bus    "To" bus    Branch type(0-transmission line, 1-transformer)    NO-USE    R(p.u.)   X(p.u.)    Y0(p.u.) or transformation ratio k    NO-USE    NO-USE
+     1         2                         3                                 4         5         6                 7                          8         9
+"From" bus  "To" bus   Branch type(0-transmission line, 1-transformer)   NO-USE   R(p.u.)  X(p.u.)   Y0(p.u.) or transformation ratio k   NO-USE   NO-USE
 
 Note: Shunt elements are considered as branches that their "From" bus is identical to the "To" bus and their susceptance(p.u.) is stored in column 6.
 
