@@ -18,7 +18,7 @@ Bus No.    Bus No.    Bus type(0-PQ, 1-PV, 2-slack)    Voltage magnitude    Angl
 "data.txt" is the measurement data of the modified system. The first line is the number of measurements. 
 The following part is the data of each measurements and the data format is as follows.
        1                       2              3        4                 5                         6              7        8 
-Measurement type 1    Measurement type 2    Bus i    Bus j    Measurement value(p.u.)    Standard deviation    NO-USE    NO-USE 
+Measurement type 1     Measurement type 2    Bus i    Bus j    Measurement value(p.u.)    Standard deviation    NO-USE    NO-USE 
 Measurement type table: 
 Measurement type 1    Measurement type 2   Measurement type
 1                      1            Active power injected at bus i (p.u.) (transformer)
